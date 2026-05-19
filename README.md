@@ -112,7 +112,10 @@ Data Analyst with experience in Power BI, SQL, Power BI Service, dashboard devel
 - DAX
 - GitHub
 
-
+-----------------
+# Contact
+- Email: sailokesh2426@gmail.com
+- GitHub: https://github.com/lokeshsailucky
 
 - Email: yourmail@gmail.com
 - GitHub: https://github.com/yourusername
